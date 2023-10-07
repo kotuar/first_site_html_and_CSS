@@ -1,0 +1,27 @@
+body
+{
+	background:  url(регистрация.png);
+}
+.asd {
+	color: black;
+	line-height: 40px ;
+	outline: none; 
+	border: none;
+}
+
+
+.colortext {
+	background-color: #EBEBEB;
+	height: 50px ;
+	width: calc(20% - 30px);
+ 
+	border: none; 
+}
+.colortextq {
+	background-color: #000000;
+	color: white;
+	height: 50px ;
+	width: calc(20% - 30px);
+
+	border: none; 
+}

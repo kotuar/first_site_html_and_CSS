@@ -1,0 +1,22 @@
+<html>
+	<head>
+	<title>Регистрация</title>
+	<meta Charset="utf-8" >
+	<link href="ikon.png" rel="shortcut icon" type="image/x-icon">
+	<link rel="stylesheet" href="нотпад12.css">
+	</head>
+	<body>
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		<div align="center">
+			<form name="forma1" action="check.html" method="post" class="asd">
+				<input type="email" class="colortext" placeholder="Эл. почта" required>
+				<br><br>
+				<input type="password" class="colortext" placeholder="Пароль" required>
+				<br>
+				запомнить меня <input type="checkbox" >
+				<br>
+				<input type="button" name="starth" value="SING IN" onclick='location.href="эксперемент новый.html"' class="colortextq">
+			</form>
+		</div>	
+</body>
+</html>

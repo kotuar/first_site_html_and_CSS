@@ -1,0 +1,174 @@
+body
+{ 
+	background:  url(фулзад.png);
+	}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	
+}
+ .fig {
+    text-align: center;
+   }
+
+table {
+    color: black; 
+   }
+   
+.containerS {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centeredS {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.gay {
+	margin-left: 80px; 
+}
+.qwe {
+	color: white;
+}
+.centeredq  {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	font-family: Appetite;
+}
+.containerq {
+    position: relative;
+    text-align: center;
+    color: white;
+	font-family: Appetite;
+}
+.qwez {
+	font-size: 20;
+	background-color: black;
+	color: white;
+	font-family: Appetite;
+	height: 40px;
+    line-height: 40px ;
+	border-color: black;
+	}
+.qwex {
+	font-size: 17;
+	background-color: black;
+	color: white;
+	font-family: Appetite;
+	height: 40px;
+    line-height: 40px ;
+    border-color: black;
+	
+}
+.qwec {
+	font-size: 25;
+	background-color: black;
+	color: white;
+	font-family: Appetite;
+	height: 40px;
+    line-height: 40px ;
+	border-color: black;
+}
+p {
+	font-family: Appetite;
+}
+.containerw {
+	 position: relative;
+    text-align: center;
+    color: white;
+}
+.centeredw {
+	 position: absolute;
+    top: 50%;
+    left: 96%;
+    transform: translate(-50%, -50%);
+}
+.qwea {
+	background-color: #232323;
+	color: white;
+	border-color: #232323;
+	border-style: solid none;
+	width: 70px;
+}
+input:hover { background: #232323; }
+a { 
+	color: white;	
+	font-family: Calibri;
+	text-decoration: none;
+	}
+.qwes {
+	padding-top:0px;
+	margin-top:10px;
+}
+.centerede {
+	 position: absolute;
+    top: 50%;
+    left: 7%;
+    transform: translate(-50%, -50%);
+}
+.centeredr {
+	 position: absolute;
+    top: 50%;
+    left: 11%;
+    transform: translate(-50%, -50%);
+}
+.zxcv {
+	font-size: 21pt;
+}
+.xcv {
+	color: black;
+	width: 90px;
+	background-color: black;
+}
+.mnb {
+	font-size: 16pt;
+}
+.cvb {
+	color: black;
+	width: 180px;
+	background-color: black;
+}
+.fgh {
+	font-size: 11pt;
+}
+.containerh{
+	position: relative;
+    text-align: center;
+    color: white;
+	
+}
+.centeredh{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.qwep{
+	color: white;
+	font-size: 20pt;
+}
+.colortext {
+	background-color: #000000;
+	height: 30px ;
+	width: 400px;
+	border-color: white;
+	color: white;
+}
+.colortextq {
+	background-color: #ffffff;
+	color: black;
+	height: 30px ;
+	width: 400px; 
